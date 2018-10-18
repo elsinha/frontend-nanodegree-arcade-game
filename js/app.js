@@ -1,5 +1,5 @@
 // Enemies our player must avoid
-var Enemy = function(x, y, velocity) {
+let Enemy = function(x, y, velocity) {
   // Variables applied to each of our instances go here,
   // we've provided one for you to get started
   this.x = x;
@@ -45,7 +45,7 @@ Enemy.prototype.render = function() {
 // Now write your own player class
 // This class requires an update(), render() and
 // a handleInput() method.
-var Player = function(positionX, positionY) {
+let Player = function(positionX, positionY) {
   this.x = positionX;
   this.y = positionY;
   this.sprite = 'images/char-cat-girl.png';
@@ -96,7 +96,7 @@ Player.prototype.handleInput = function(keycode) {
       }
     }, 100);
 
-
+// Later would like to implement method reset() in Player class and call it multiple times.
 
 
   }
