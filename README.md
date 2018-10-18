@@ -5,7 +5,7 @@ frontend-nanodegree-arcade-game
 
 ## Getting started
 
-To get started download the game [here] (https://github.com/elsinha/frontend-nanodegree-arcade-game.git). Once you have
+To get started download the game here: [Arcade Game](https://github.com/elsinha/frontend-nanodegree-arcade-game.git) . Once you have
 have downloaded double click on the html file and you can play the game!
 * Using the arrow buttons the player can go up, down, left and right.
 * If player makes it to the water, the player wins.
