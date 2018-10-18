@@ -1,7 +1,7 @@
 frontend-nanodegree-arcade-game
 ===============================
 
-![Image of Game](/img/game.png)
+![Image of Game](/images/game.png)
 
 ## Contributing
 
